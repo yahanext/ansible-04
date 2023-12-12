@@ -16,7 +16,7 @@
     description: "Clickhouse repo"
     baseurl: "{{ clickhouse_repo }}"
     enabled: yes
-    gpgcheck: 1
+    gpgcheck: 0
     gpgkey: "{{ clickhouse_repo_key }}"
   tags: [install]
   become: true

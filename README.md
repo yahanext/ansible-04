@@ -63,5 +63,8 @@ yaha@yahawork:~/netology/ansible-04/playbook/roles$
 ### Как оформить решение задания
 
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
+1. - [Lighthouse-role](https://github.com/yahanext/lighthouse-role.git) 
+2. - [Vector-role](https://github.com/yahanext/vector-role.git) 
+3. - [Playbook](https://github.com/yahanext/ansible-04.git) 
 
 ---
